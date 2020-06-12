@@ -306,9 +306,9 @@ void timer(int) {
 	glutTimerFunc(16, timer, 0);
 
 	revolution_mer(20.0, 1000);
-	revolution_ven(40.0, 1300);
-	revolution_ear(60.0, 1700);
-	revolution_mar(80.0, 2000);
+	revolution_ven(40.0, 1500);
+	revolution_ear(60.0, 2500);
+	revolution_mar(80.0, 3000);
 	revolution_moo(10.0, 500);
 	revolution_pho(6.0, 400);
 	revolution_dei(9.0, 500);
